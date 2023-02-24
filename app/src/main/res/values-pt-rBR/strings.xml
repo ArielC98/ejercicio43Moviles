@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio43</string>
+    <string name="radiosuma">adicionar</string>
+    <string name="radioresta">subtrair</string>
+    <string name="botonoperacion">resolver</string>
+</resources>
